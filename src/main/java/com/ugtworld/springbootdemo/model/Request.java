@@ -9,6 +9,6 @@ public class Request {
 	String name;
 	int id;
 	int marks;
-	int inclass;
+	int studentClass;
 	String gender;
 }
